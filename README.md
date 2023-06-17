@@ -5,4 +5,4 @@ This repository contains the supplementary material for the paper "A Conic Model
 In this repository, we provide:
   1. The pdf "Online Companion" which contains the supplemetary material to the paper.
   2. The source code implemented in Python using Gurobi.
-  3. The xlsx file that containts the data of the case studies.
+  3. The xlsx and csv files that contain the data of the case studies.
